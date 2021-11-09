@@ -2,7 +2,7 @@
 title: 'Ein CMS, mit Material Design, für Dokumentationen'
 date: 08.05.2017
 ---
-## Wünderschöne Dokumentationen
+## Wünderschöne Dokumentationen 2
 
 Material ist ein Theme für [MkDocs](http://www.mkdocs.org), ein ausgezeichneter Static Site Generator für Online-Dokumentationen. Das Design basiert auf Google's [Material Design](https://www.google.com/design/spec/material-design)
 Richtlinien.
